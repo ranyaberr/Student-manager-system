@@ -1,5 +1,5 @@
 from db import conn
-from main import add_student, delete_student, search_student, update_student, view_students
+from student_service import add_student, delete_student, search_student, update_student, view_students
 
 #MENU
 
